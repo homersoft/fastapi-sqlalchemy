@@ -3,4 +3,4 @@ from fastapi_sqlalchemy.async_middleware import AsyncDBSessionMiddleware, async_
 
 __all__ = ["db", "DBSessionMiddleware", "async_db", "AsyncDBSessionMiddleware"]
 
-__version__ = "0.3.0"
+__version__ = "0.3.0.post1"
